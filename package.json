@@ -1,0 +1,15 @@
+{
+    "name": "kota-corner",
+    "version": "1.0.0",
+    "description": "Kota Ecommerce store created using NodeJs, Express and Mongodb",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Khabubu Ndivhuwo",
+        "email": "khabubundivhu@gmail.com",
+        "url": "http://khabubundivhu.co.za"
+    },
+    "license": "ISC"
+}
